@@ -4,14 +4,14 @@
 
   <groupId>net.stickycode.parent</groupId>
   <artifactId>sticky-parent-tile</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <packaging>pom</packaging>
 
   <name>${project.artifactId}-1</name>
 
   <scm>
     <developerConnection>${git.url}</developerConnection>
-    <tag>HEAD</tag>
+    <tag>sticky-parent-tile-1.2</tag>
   </scm>
 
   <properties>
