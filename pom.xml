@@ -14,11 +14,12 @@
   <packaging>pom</packaging>
 
   <name>${project.artifactId}-2</name>
+  <description>Add extensions for making tiles</description>
+  <url>https://github.com/StickySource/tile</url>
 
   <scm>
     <developerConnection>${git.url}</developerConnection>
     <tag>HEAD</tag>
-    <url>${git.url}</url>
   </scm>
 
   <build>
